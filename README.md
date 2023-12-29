@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Vanvirsinh
 - 👀 I’m interested in Web Developing technologies 
-- 🌱 I’m currently working as Full Stack Web Development
+- 🌱 I’m currently working as a Full Stack Web Development
 - 💞️ I’m looking to collaborate on technologies related to MERN Stack
+- 📫 https://vanvirsingh.vercel.app
 - 📫 https://codemafias.com
 
 <!---
